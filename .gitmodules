@@ -46,3 +46,6 @@
 [submodule "bundle/css-color"]
 	path = bundle/css-color
 	url = git://github.com/skammer/vim-css-color.git
+[submodule "bundle/jquery"]
+	path = bundle/jquery
+	url = git://github.com/bronson/vim-jquery.git
