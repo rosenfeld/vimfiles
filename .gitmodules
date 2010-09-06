@@ -28,3 +28,6 @@
 [submodule "bundle/camelcasemotion"]
 	path = bundle/camelcasemotion
 	url = git://github.com/ujihisa/camelcasemotion.git
+[submodule "bundle/endwise"]
+	path = bundle/endwise
+	url = git://github.com/tpope/vim-endwise.git
