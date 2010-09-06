@@ -49,3 +49,6 @@
 [submodule "bundle/jquery"]
 	path = bundle/jquery
 	url = git://github.com/bronson/vim-jquery.git
+[submodule "bundle/replace"]
+	path = bundle/replace
+	url = git://github.com/vim-scripts/replace.git
