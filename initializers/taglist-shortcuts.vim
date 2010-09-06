@@ -1,1 +1,1 @@
-nnoremap <silent> <F8> :TlistToggle<CR>
+nnoremap <silent> <F8> :TlistUpdate<CR> :TlistToggle<CR>
