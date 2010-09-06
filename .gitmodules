@@ -34,3 +34,6 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = git://github.com/scrooloose/syntastic.git
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = git://github.com/chrismetcalf/vim-taglist.git
