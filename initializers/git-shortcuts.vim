@@ -1,2 +1,2 @@
-map <leader>g :!git gui&<CR><CR>
-map <leader>k :!gitk&<CR><CR>
+nmap <leader>g :!git gui&<CR><CR>
+nmap <leader>k :!gitk&<CR><CR>
