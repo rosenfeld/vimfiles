@@ -55,3 +55,6 @@
 [submodule "bundle/autoclose"]
 	path = bundle/autoclose
 	url = git://github.com/Townk/vim-autoclose.git
+[submodule "bundle/specky"]
+	path = bundle/specky
+	url = git://github.com/vim-scripts/Specky.git
