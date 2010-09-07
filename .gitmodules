@@ -52,3 +52,6 @@
 [submodule "bundle/replace"]
 	path = bundle/replace
 	url = git://github.com/vim-scripts/replace.git
+[submodule "bundle/autoclose"]
+	path = bundle/autoclose
+	url = git://github.com/Townk/vim-autoclose.git
