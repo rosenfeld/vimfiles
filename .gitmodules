@@ -61,3 +61,6 @@
 [submodule "bundle/javacomplete"]
 	path = bundle/javacomplete
 	url = git://github.com/vim-scripts/javacomplete.git
+[submodule "bundle/htmlspecialchars"]
+	path = bundle/htmlspecialchars
+	url = git://github.com/vim-scripts/htmlspecialchars.git
