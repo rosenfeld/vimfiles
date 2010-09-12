@@ -64,3 +64,6 @@
 [submodule "bundle/htmlspecialchars"]
 	path = bundle/htmlspecialchars
 	url = git://github.com/vim-scripts/htmlspecialchars.git
+[submodule "bundle/grep"]
+	path = bundle/grep
+	url = http://github.com/vim-scripts/grep.vim.git
