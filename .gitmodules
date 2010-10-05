@@ -76,3 +76,6 @@
 [submodule "bundle/vcscommand"]
 	path = bundle/vcscommand
 	url = git://repo.or.cz/vcscommand
+[submodule "lib/rsense"]
+	path = lib/rsense
+	url = git://github.com/m2ym/rsense.git
