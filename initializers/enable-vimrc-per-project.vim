@@ -1,0 +1,2 @@
+set exrc
+set secure
