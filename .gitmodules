@@ -82,3 +82,6 @@
 [submodule "bundle/ruby-debugger"]
 	path = bundle/ruby-debugger
 	url = git://github.com/rosenfeld/vim-ruby-debugger.git
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = git://github.com/tpope/vim-fugitive.git
