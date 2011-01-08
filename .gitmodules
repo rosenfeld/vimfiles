@@ -21,7 +21,7 @@
 	url = git://git.wincent.com/command-t.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = git://github.com/scrooloose/nerdtree.git
+	url = git://github.com/wycats/nerdtree.git
 [submodule "bundle/nerd_commenter"]
 	path = bundle/nerd_commenter
 	url = git://github.com/scrooloose/nerdcommenter.git
@@ -48,7 +48,7 @@
 	url = git://github.com/skammer/vim-css-color.git
 [submodule "bundle/jquery"]
 	path = bundle/jquery
-	url = git://github.com/bronson/vim-jquery.git
+	url = git://github.com/itspriddle/vim-jquery.git
 [submodule "bundle/replace"]
 	path = bundle/replace
 	url = git://github.com/vim-scripts/replace.git
