@@ -9,7 +9,7 @@ au BufRead,BufNewFile jquery.*.js               set ft=javascript syntax=jquery
 au BufRead,BufNewFile *.java                    setlocal omnifunc=javacomplete#Complete
 
 " Grails GSP: support for JSP is currently better than for GSP
-au BufRead,BufNewFile *.gsp                     setf jsp
+au BufRead,BufNewFile *.gsp                     setf jsp.html
 
 au FileType ruby setlocal shiftwidth=2 softtabstop=2
 au FileType html setlocal shiftwidth=2 softtabstop=2
