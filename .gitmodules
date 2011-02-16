@@ -100,3 +100,6 @@
 [submodule "bundle/conque-term"]
 	path = bundle/conque-term
 	url = git://github.com/rosenfeld/conque-term.git
+[submodule "bundle/align"]
+	path = bundle/align
+	url = git://github.com/tsaleh/vim-align.git
