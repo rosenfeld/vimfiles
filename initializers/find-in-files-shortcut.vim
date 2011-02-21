@@ -1,1 +1,2 @@
-nmap <c-f><c-r> :Rgrep<CR>
+nmap <c-x>r :Rgrep<CR>
+nmap <c-x><c-r> :Rgrep<CR>
