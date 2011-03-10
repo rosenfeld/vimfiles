@@ -11,6 +11,12 @@ au BufRead,BufNewFile *.java                    setlocal omnifunc=javacomplete#C
 " Grails GSP: support for JSP is currently better than for GSP
 au BufRead,BufNewFile *.gsp                     setf gsp.html
 
+" Specifications and stories from EasyB
+au BufRead,BufNewFile *.story,*.specification   setf groovy
+
+" Fix indentation rules on Ruby
+au FileType ruby setlocal indentkeys+==else
+
 au FileType ruby setlocal shiftwidth=2 softtabstop=2
 au FileType html setlocal shiftwidth=2 softtabstop=2
 au FileType xml setlocal shiftwidth=2 softtabstop=2
