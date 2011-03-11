@@ -1,3 +1,3 @@
-if !has("gui_running")
+"if !has("gui_running")
   let g:AutoClosePreservDotReg = 0
-endif
+"endif
