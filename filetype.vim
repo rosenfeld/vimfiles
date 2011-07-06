@@ -28,6 +28,7 @@ au FileType gsp.html setlocal shiftwidth=2 softtabstop=2
 au FileType javascript setlocal shiftwidth=4 softtabstop=4
 au FileType java setlocal shiftwidth=4 softtabstop=4
 au FileType groovy setlocal shiftwidth=4 softtabstop=4
+au FileType css setlocal shiftwidth=4 softtabstop=4
 au FileType markdown setlocal shiftwidth=4 softtabstop=4
 
 augroup END
