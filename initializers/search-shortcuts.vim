@@ -1,2 +1,2 @@
-" Pesquisa apenas no último bloco selecionado
+" Searches only in the last selected block
 nmap ,/ /\%V
