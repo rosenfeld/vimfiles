@@ -25,11 +25,11 @@ au FileType xml setlocal shiftwidth=2 softtabstop=2
 au FileType eruby.html setlocal shiftwidth=2 softtabstop=2
 au FileType jsp setlocal shiftwidth=2 softtabstop=2
 au FileType gsp.html setlocal shiftwidth=2 softtabstop=2
-au FileType javascript setlocal shiftwidth=4 softtabstop=4
+au FileType javascript setlocal shiftwidth=2 softtabstop=2
 au FileType coffee setlocal shiftwidth=2 softtabstop=2
-au FileType java setlocal shiftwidth=4 softtabstop=4
-au FileType groovy setlocal shiftwidth=4 softtabstop=4
-au FileType css setlocal shiftwidth=4 softtabstop=4
+au FileType java setlocal shiftwidth=2 softtabstop=2
+au FileType groovy setlocal shiftwidth=2 softtabstop=2
+au FileType css setlocal shiftwidth=2 softtabstop=2
 au FileType markdown setlocal shiftwidth=4 softtabstop=4
 
 augroup END
