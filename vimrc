@@ -1,6 +1,6 @@
 filetype off
 
-call pathogen#runtime_append_all_bundles()
+call pathogen#infect()
 
 runtime! initializers/*
 
