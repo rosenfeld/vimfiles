@@ -115,3 +115,7 @@
 [submodule "bundle/coffee-script"]
 	path = bundle/coffee-script
 	url = git://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/jasmine"]
+	path = bundle/jasmine
+        url = git://github.com/rosenfeld/jasmine.vim.git
+        ;git://github.com/claco/jasmine.vim.git
