@@ -119,3 +119,6 @@
 	path = bundle/jasmine
         url = git://github.com/rosenfeld/jasmine.vim.git
         ;git://github.com/claco/jasmine.vim.git
+[submodule "bundle/sparkup"]
+	path = bundle/sparkup
+	url = git://github.com/bingaman/vim-sparkup.git
