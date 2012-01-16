@@ -125,3 +125,6 @@
 [submodule "bundle/ctrlp"]
 	path = bundle/ctrlp
 	url = git://github.com/kien/ctrlp.vim.git
+[submodule "bundle/local-vimrc"]
+	path = bundle/local-vimrc
+	url = git://github.com/MarcWeber/vim-addon-local-vimrc.git
