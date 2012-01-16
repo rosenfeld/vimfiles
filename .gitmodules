@@ -16,9 +16,6 @@
 [submodule "bundle/ragtag"]
 	path = bundle/ragtag
 	url = git://github.com/tpope/vim-ragtag.git
-[submodule "bundle/command-t"]
-	path = bundle/command-t
-	url = git://git.wincent.com/command-t.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = git://github.com/wycats/nerdtree.git
@@ -37,9 +34,6 @@
 [submodule "bundle/taglist"]
 	path = bundle/taglist
 	url = git://github.com/chrismetcalf/vim-taglist.git
-[submodule "bundle/bufexplorer"]
-	path = bundle/bufexplorer
-	url = git://github.com/markabe/bufexplorer.git
 [submodule "bundle/gemfile"]
 	path = bundle/gemfile
 	url = git://github.com/tobiassvn/vim-gemfile.git
@@ -128,3 +122,6 @@
 [submodule "bundle/yankring"]
 	path = bundle/yankring
 	url = git://github.com/vim-scripts/YankRing.vim.git
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = git://github.com/kien/ctrlp.vim.git
