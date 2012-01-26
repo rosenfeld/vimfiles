@@ -128,3 +128,6 @@
 [submodule "bundle/local-vimrc"]
 	path = bundle/local-vimrc
 	url = git://github.com/MarcWeber/vim-addon-local-vimrc.git
+[submodule "bundle/rgrep"]
+	path = bundle/rgrep
+	url = git://github.com/rosenfeld/rgrep.vim.git
