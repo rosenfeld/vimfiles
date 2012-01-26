@@ -1,1 +1,1 @@
-set wildignore=*.o,*.obj,.git,*.class,*.jar,*.war,*.log,daemons
+set wildignore=*.o,*.obj,.git,*.class,*.jar,*.war,*.log,*.min.js,daemons
