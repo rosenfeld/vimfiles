@@ -131,3 +131,6 @@
 [submodule "bundle/rgrep"]
 	path = bundle/rgrep
 	url = git://github.com/rosenfeld/rgrep.vim.git
+[submodule "bundle/jquery-doc"]
+	path = bundle/jquery-doc
+	url = git://github.com/lucapette/vim-jquery-doc.git
