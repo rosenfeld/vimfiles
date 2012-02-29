@@ -137,3 +137,6 @@
 [submodule "bundle/ruby-doc"]
 	path = bundle/ruby-doc
 	url = git://github.com/lucapette/vim-ruby-doc.git
+[submodule "bundle/EasyGrep"]
+	path = bundle/EasyGrep
+	url = git://github.com/vim-scripts/EasyGrep.git
