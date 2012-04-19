@@ -16,6 +16,8 @@ au BufRead,BufNewFile *.story,*.specification   setf groovy
 
 au BufRead,BufNewFile *.md                      set ft=markdown
 
+au BufRead,BufNewFile Gemfile                   set ft=Gemfile.ruby
+
 " Fix indentation rules on Ruby
 au FileType ruby setlocal indentkeys+==else
 
