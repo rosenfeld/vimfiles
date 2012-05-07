@@ -16,6 +16,8 @@ au BufRead,BufNewFile *.story,*.specification   setf groovy
 
 au BufRead,BufNewFile *.md                      set ft=markdown
 
+au BufRead,BufNewFile *.jst.eco                 set ft=eco.html
+
 au BufRead,BufNewFile Gemfile                   set ft=Gemfile.ruby
 
 " Fix indentation rules on Ruby
@@ -25,6 +27,7 @@ au FileType ruby setlocal shiftwidth=2 softtabstop=2
 au FileType html setlocal shiftwidth=2 softtabstop=2
 au FileType xml setlocal shiftwidth=2 softtabstop=2
 au FileType eruby.html setlocal shiftwidth=2 softtabstop=2
+au FileType eco.html setlocal shiftwidth=2 softtabstop=2
 au FileType jsp setlocal shiftwidth=2 softtabstop=2
 au FileType gsp.html setlocal shiftwidth=2 softtabstop=2
 au FileType javascript setlocal shiftwidth=2 softtabstop=2
