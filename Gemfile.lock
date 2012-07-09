@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gem-ctags (1.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gem-ctags
