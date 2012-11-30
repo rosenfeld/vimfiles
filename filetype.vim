@@ -24,6 +24,9 @@ au BufRead,BufNewFile Gemfile                   set ft=Gemfile.ruby
 " Fix indentation rules on Ruby
 au FileType ruby setlocal indentkeys+==else
 
+" fix word boundary for CoffeeScript
+au FileType coffee setlocal iskeyword+=^:
+
 au FileType * setlocal shiftwidth=2 softtabstop=2
 "au FileType ruby setlocal shiftwidth=2 softtabstop=2
 "au FileType html setlocal shiftwidth=2 softtabstop=2
