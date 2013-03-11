@@ -157,3 +157,6 @@
 [submodule "bundle/rvm"]
 	path = bundle/rvm
 	url = git://github.com/tpope/vim-rvm.git
+[submodule "bundle/gitgutter"]
+	path = bundle/gitgutter
+	url = git://github.com/airblade/vim-gitgutter.git
