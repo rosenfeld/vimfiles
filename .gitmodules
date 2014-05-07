@@ -160,3 +160,6 @@
 [submodule "bundle/gitgutter"]
 	path = bundle/gitgutter
 	url = git://github.com/airblade/vim-gitgutter.git
+[submodule "bundle/eunuch"]
+	path = bundle/eunuch
+	url = git://github.com/tpope/vim-eunuch.git
