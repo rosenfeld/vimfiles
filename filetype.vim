@@ -3,6 +3,9 @@ augroup filetypedetect
 au BufNewFile,BufRead *.erb,*.rhtml		setf eruby.html
 au BufNewFile,BufRead *.coffee.erb		setf eruby.coffee
 
+" Capistrano rake tasks
+au BufNewFile,BufRead *.cap     		setf ruby
+
 " jQuery javascript
 au BufRead,BufNewFile jquery.*.js               set ft=javascript syntax=jquery
 
