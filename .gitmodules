@@ -163,3 +163,9 @@
 [submodule "bundle/eunuch"]
 	path = bundle/eunuch
 	url = git://github.com/tpope/vim-eunuch.git
+[submodule "bundle/multiple-cursors"]
+	path = bundle/multiple-cursors
+	url = git://github.com/terryma/vim-multiple-cursors.git
+[submodule "bundle/substitute-highlight-vim-over"]
+	path = bundle/substitute-highlight-vim-over
+	url = git://github.com/osyo-manga/vim-over.git
