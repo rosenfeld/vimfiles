@@ -166,3 +166,6 @@
 [submodule "bundle/substitute-highlight-vim-over"]
 	path = bundle/substitute-highlight-vim-over
 	url = git://github.com/osyo-manga/vim-over.git
+[submodule "bundle/vim-markdown-preview"]
+	path = bundle/vim-markdown-preview
+	url = git@github.com:JamshedVesuna/vim-markdown-preview.git
