@@ -178,3 +178,6 @@
 [submodule "bundle/MatchTagAlways"]
 	path = bundle/MatchTagAlways
 	url = https://github.com/Valloric/MatchTagAlways
+[submodule "bundle/javascript"]
+	path = bundle/javascript
+	url = https://github.com/pangloss/vim-javascript.git
