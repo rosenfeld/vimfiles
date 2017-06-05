@@ -88,9 +88,6 @@
 [submodule "bundle/textobj-rubyblock"]
 	path = bundle/textobj-rubyblock
 	url = git://github.com/nelstrom/vim-textobj-rubyblock.git
-[submodule "bundle/javascript-syntax"]
-	path = bundle/javascript-syntax
-	url = git://github.com/vim-scripts/JavaScript-syntax.git
 [submodule "bundle/conque-term"]
 	path = bundle/conque-term
 	url = git://github.com/rosenfeld/conque-term.git
