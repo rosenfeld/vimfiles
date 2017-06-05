@@ -169,3 +169,12 @@
 [submodule "bundle/vim-markdown-preview"]
 	path = bundle/vim-markdown-preview
 	url = git@github.com:JamshedVesuna/vim-markdown-preview.git
+[submodule "bundle/jsx-improve"]
+	path = bundle/jsx-improve
+	url = https://github.com/neoclide/vim-jsx-improve
+[submodule "bundle/closetag"]
+	path = bundle/closetag
+	url = https://github.com/alvan/vim-closetag
+[submodule "bundle/MatchTagAlways"]
+	path = bundle/MatchTagAlways
+	url = https://github.com/Valloric/MatchTagAlways
