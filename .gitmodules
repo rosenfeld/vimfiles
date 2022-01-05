@@ -159,7 +159,7 @@
 	url = git://github.com/osyo-manga/vim-over.git
 [submodule "bundle/vim-markdown-preview"]
 	path = bundle/vim-markdown-preview
-	url = git@github.com:JamshedVesuna/vim-markdown-preview.git
+	url = https://github.com/JamshedVesuna/vim-markdown-preview.git
 [submodule "bundle/jsx-improve"]
 	path = bundle/jsx-improve
 	url = https://github.com/neoclide/vim-jsx-improve
