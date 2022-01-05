@@ -175,3 +175,6 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "bundle/gemfile"]
+	path = bundle/gemfile
+	url = https://github.com/hron84/Gemfile.vim.git
