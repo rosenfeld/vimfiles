@@ -31,9 +31,6 @@
 [submodule "bundle/taglist"]
 	path = bundle/taglist
 	url = git://github.com/chrismetcalf/vim-taglist.git
-[submodule "bundle/gemfile"]
-	path = bundle/gemfile
-	url = git://github.com/tobiassvn/vim-gemfile.git
 [submodule "bundle/css-color"]
 	path = bundle/css-color
 	url = git://github.com/skammer/vim-css-color.git
